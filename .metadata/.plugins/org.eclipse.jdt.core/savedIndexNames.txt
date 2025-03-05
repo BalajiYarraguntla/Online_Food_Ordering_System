@@ -43,7 +43,6 @@ INDEX VERSION 1.134+C:\Users\yabalaji\Documents\STSworklocation\.metadata\.plugi
 291454613.index
 1315827880.index
 319238088.index
-1714353502.index
 4172769377.index
 415574927.index
 790604627.index
