@@ -31,7 +31,7 @@ public class OrderDetails {
 	@CreationTimestamp
 	private Instant createdAt;
 
-	@Column(nullable = false)
+	@Column(name = "user_id")
 	private Long user;
 
 	@Column(nullable = false)

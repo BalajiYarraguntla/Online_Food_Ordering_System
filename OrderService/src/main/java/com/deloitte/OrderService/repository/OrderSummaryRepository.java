@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import com.deloitte.OrderService.entity.OrderSummary;
 
 @Repository
-public interface OrderSummaryRepository extends JpaRepository<OrderSummary, Long>{
+public interface OrderSummaryRepository extends JpaRepository<OrderSummary, Integer>{
 
 }
