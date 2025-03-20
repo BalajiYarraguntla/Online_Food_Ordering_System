@@ -41,7 +41,7 @@ public class FoodItem {
 	private Double discountedPrice;
 
 	@ManyToOne(fetch = FetchType.LAZY)
-	@JoinColumn(name = "resturant_id",nullable = false)
+	@JoinColumn(name = "resturant_id")
 	private Resturant resturant;
 
 	

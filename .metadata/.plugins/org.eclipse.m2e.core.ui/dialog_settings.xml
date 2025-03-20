@@ -6,7 +6,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\yabalaji\Documents\STSworklocation\Notification-Service"/>
 			<item value="C:\Users\yabalaji\Documents\STSworklocation\ResturantService"/>
+			<item value="C:\Users\yabalaji\Documents\STSworklocation\NotificationService"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
